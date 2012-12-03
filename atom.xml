@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Min Soo's Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-12-03T12:06:39+09:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I Need Better Publishing Tools]]></title>
+    <link href="http://yoursite.com/blog/2012/12/03/i-need-better-publishing-tools/"/>
+    <updated>2012-12-03T11:55:00+09:00</updated>
+    <id>http://yoursite.com/blog/2012/12/03/i-need-better-publishing-tools</id>
+    <content type="html"><![CDATA[<h2>Publishing with Google Drive as content sharing repository.</h2>
+
+<p>We had situation where we can share the content before, like Drop Box, WebHard, iCloud.
+So, why Google Drive is special?</p>
+
+<pre><code>* It supports multi-platforms unlike iCloud, which is mostly geared for Apple centric workflow.
+
+* It has the content editing capability unlike DropBox and several other services, which has mostly storage capabilities.
+
+* It has API so that developers can use it with their programs. I can get information and edit the same data from the spreadsheet of customers using my program, if I know the user id and the password.
+</code></pre>
+
+<h2>This opens up a whole new way of publishing.</h2>
+
+<p>I can imagine a publishing serve platform like the following.</p>
+
+<h2>Case Study</h2>
+
+<h3>1. Catalog Reseller</h3>
+
+<p>I am a reseller of pharmaceutical products. I sell a several thousands products. I need to make catalogs all the time for various catalog and various distribution channel.
+But it not so easy.</p>
+
+<ol>
+<li><p>It is very time consuming</p></li>
+<li><p>It is very expensive to create a paper catalog or web site.</p></li>
+</ol>
+
+
+<p>And I would like some serve that can handle this very efficiently, and I am willing to pay for it.</p>
+
+<h3>1. Book publisher</h3>
+
+<h3>Frier Generation</h3>
+
+<h3>X-Banner Generation</h3>
+
+<h3>POD Center</h3>
+
+<h3>Photo Album</h3>
+
+<h3>Business Card</h3>
+
+<h3>Newspaper</h3>
+
+<h3>Magazine</h3>
+
+<h3>Educational Questionaire</h3>
+
+<h3>Directory</h3>
+
+<h3>Address Book</h3>
+]]></content>
+  </entry>
+  
+</feed>
